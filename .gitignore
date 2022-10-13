@@ -1,5 +1,6 @@
-
+.ipynb_checkpoints/**/*
 ._Checkpoint_ML.ipynb
 ._ML_RN_Checkpoint_4.ipynb
 ._ML_Checkpoint_2_3.ipynb
 ._Checkpoint_ML_Mercado_Financeiro.ipynb
+._.gitignore
