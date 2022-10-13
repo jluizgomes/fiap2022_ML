@@ -1,3 +1,3 @@
-# FIAP 2022 - Checkpoints Machine Learning
+# FIAP 2022 - Machine Learning
 
-Projetos de checkpoints da disciplina de machine learning.
+Projetos da disciplina de Machine Learning.
